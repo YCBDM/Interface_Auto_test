@@ -1,0 +1,8 @@
+2018-05-17 20:59:02,428 - log.py[line:48] - INFO: abc
+2018-05-17 20:59:02,428 - log.py[line:49] - DEBUG: abd
+2018-05-17 20:59:12,794 - e_mail.py[line:36] - ERROR: [Errno 11004] getaddrinfo failed
+2018-05-17 21:02:59,782 - e_mail.py[line:36] - ERROR: [Errno 11004] getaddrinfo failed
+2018-05-17 21:05:04,890 - e_mail.py[line:36] - ERROR: [Errno 11004] getaddrinfo failed
+2018-05-17 21:05:12,337 - e_mail.py[line:36] - ERROR: [Errno 11004] getaddrinfo failed
+2018-05-17 21:07:08,787 - e_mail.py[line:36] - ERROR: [Errno 11004] getaddrinfo failed
+2018-05-17 21:08:59,749 - e_mail.py[line:36] - ERROR: [Errno 11004] getaddrinfo failed

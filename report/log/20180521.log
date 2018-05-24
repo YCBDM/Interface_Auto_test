@@ -1,0 +1,5 @@
+2018-05-21 17:26:14,270 - e_mail.py[line:36] - ERROR: [Errno 11004] getaddrinfo failed
+2018-05-21 18:00:38,281 - e_mail.py[line:36] - ERROR: [Errno 11004] getaddrinfo failed
+2018-05-21 18:04:28,754 - e_mail.py[line:34] - INFO: 测试报告邮件已发送
+2018-05-21 18:05:02,465 - log.py[line:48] - INFO: abc
+2018-05-21 18:05:02,465 - log.py[line:49] - DEBUG: abd
